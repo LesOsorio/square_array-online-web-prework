@@ -1,3 +1,7 @@
+array = [3,6,9]
+
 def square_array(array)
-  # your code here
+  array.each do
+    math.sq
+  end
 end
