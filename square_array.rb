@@ -1,7 +1,7 @@
-array = [3,6,9]
+numbers = [3,6,9]
 
-def square_array(array)
-  array.each do
-    math.sqrt
+def square_array(numbers)
+  numbers.each do 
+  
   end
 end
